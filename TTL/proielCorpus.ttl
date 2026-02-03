@@ -1,0 +1,14 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix powla: <http://purl.org/powla/powla.owl#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+<http://lila-erc.eu/data/corpora/PROIEL/id/corpus> a powla:Corpus;
+  dc:title "Latin PROIEL treebank";
+  <http://purl.org/dc/terms/contributor> "Lucas Dezotti, Marco Passarotti, Federica Iurescia, Giovanni Moretti, Paolo Ruffolo";
+  <http://purl.org/dc/terms/creator> "Dag Trygve Truslew Haug , Marius Larsen Jøhndal";
+  <http://purl.org/dc/terms/description> "The Latin PROIEL treebank is based on the Latin data from the PROIEL treebank, and contains most of the Vulgate New Testament translations plus selections from Caesar's Gallic War, Cicero's Letters to Atticus, Palladius' Opus Agriculturae and the first book of Cicero's De officiis enhanced with morphological and syntactic annotation following the Universal Dependencies framework.";
+  <http://purl.org/dc/terms/license> <http://www.wikidata.org/entity/Q42553662>;
+  <http://purl.org/dc/terms/publisher> <http://www.wikidata.org/entity/Q89883181>;
+  rdfs:seeAlso <https://github.com/UniversalDependencies/UD_Latin-PROIEL>;
+  rdfs:seeAlso <https://dev.syntacticus.org/proiel.html>
