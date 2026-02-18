@@ -5,7 +5,7 @@ The PROIEL-LOD is the Linked Open Data version of the [UD_Latin-PROIEL](https://
 ### Repository description
 
  - `TTL (folder)`--> provides a single turtle file for each text of the PROIEL-LOD corpus.
- - `conllup (folder)`--> provides a single conllup file for each text of the PROIEL-LOD corpus, containing the standard conllu format 10 columns with an additional column that specify the lemma URI in the LiLa Lemma Bank.
+ - `conllup (folder)`--> provides a single CoNLL-U Plus file for each text in the PROIEL-LOD corpus, containing the standard 10-column CoNLL-U format with an additional column specifying the lemma URI in the LiLa Lemma Bank.
 
 ### Corpus description
 
