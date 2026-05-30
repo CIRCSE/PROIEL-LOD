@@ -19,6 +19,11 @@ The PROIEL-LOD is the Linked Open Data version of the [UD_Latin-PROIEL](https://
 
 \* The percentages are based on the word counts of the full texts available at [The Latin Library](https://www.thelatinlibrary.com/) and [The Forum Romanum](http://www.forumromanum.org/) websites.
 
+## How to cite
+
+Dezotti, L., Passarotti, M., Iurescia, F., & Moretti, G. (2026). The UD_Latin-PROIEL as Linked Open Data: Integrating a Latin treebank into the LiLa Knowledge Base. In [_Proceedings of the Fourth Workshop on Language Technologies for Historical and Ancient Languages (LT4HALA 2026) @ LREC 2026_](http://lrec-conf.org/proceedings/lrec2026/workshops/lt4hala/2026.lt4hala-1.0.pdf), Palma de Mallorca, Spain (pp. 353–360). ELRA Language Resources Association.
+
+
 ## Funding
 
 The *LiLa: Linking Latin* project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme – Grant Agreement No. 769994.
